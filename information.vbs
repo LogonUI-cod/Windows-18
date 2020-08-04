@@ -1,0 +1,1 @@
+x=msgbox("If you are using Windows 10 x64 version, good to go!", 0+64, "")
